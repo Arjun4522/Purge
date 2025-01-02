@@ -4,9 +4,10 @@ Purge is a lightweight garbage collector for C that automatically detects and fr
 Link to the article: https://medium.com/@ghosalarjun/efficient-memory-management-exploring-garbage-collection-in-c-c-and-the-purge-project-d7f87db9bb95
 
 # Results
-Below are the Valgrind memory leak test results before and after integrating Purge:
-
+Valgrind memory leak test results before integrating Purge:
 
 ![nogc](https://github.com/user-attachments/assets/5cdc9a63-2b21-4681-a1e7-ab18be5dcdfa)
+
+Valgrind memory leak test results after integrating Purge:
 
 ![gc](https://github.com/user-attachments/assets/e93292b7-55ed-4c78-909e-f3a5f504ea79)
