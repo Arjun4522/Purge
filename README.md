@@ -6,6 +6,7 @@ Link to the article: https://medium.com/@ghosalarjun/efficient-memory-management
 # Results
 Below are the Valgrind memory leak test results before and after integrating Purge:
 
-![nogc](https://github.com/user-attachments/assets/abfcb88d-6c0e-4473-a956-073054691652)
 
-![gc](https://github.com/user-attachments/assets/4bcce11a-0198-4da1-a7f7-82e624c80c94)
+![nogc](https://github.com/user-attachments/assets/5cdc9a63-2b21-4681-a1e7-ab18be5dcdfa)
+
+![gc](https://github.com/user-attachments/assets/e93292b7-55ed-4c78-909e-f3a5f504ea79)
